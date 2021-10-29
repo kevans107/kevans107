@@ -3,7 +3,7 @@
 ### About Me
 🔘 I am currently a full stack software development student at Learn Academy.
 </br>
-🔘 I'm a US Army veteran and I am transitioning from a career in the federal intelligence/investigations sector.
+🔘 I'm a US Army veteran, transitioning from a career in the federal intelligence/investigations sector.
 </br>
 🔘 In my free time I enjoy hiking, paddleboarding, and drone photography. 
 </br>
