@@ -8,6 +8,9 @@
 🔘 In my free time I enjoy hiking, paddleboarding, and drone photography. 
 </br>
 
+<div align="center">
+  [LinkedIn](https://www.linkedin.com/in/kellyevans3/)
+</div>
 ### GitHub Analytics
 ![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevans107&theme=synthwave&show_icons=true)
 
