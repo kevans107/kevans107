@@ -1,11 +1,11 @@
 # Hi, I'm Kelly 🙋🏻‍♀️
 
 ### About Me
-🔘 I am currently a full stack software development student at Learn Academy.
+🔘 Full stack developer
 </br>
-🔘 I'm a US Army veteran, transitioning from a career in the federal intelligence/investigations sector.
+🔘 US Army veteran
 </br>
-🔘 In my free time I enjoy hiking, paddleboarding, and drone photography. 
+🔘 I enjoy hiking, paddleboarding, and drone photography. 
 </br>
 
 ### GitHub Analytics
