@@ -5,7 +5,5 @@
 </br>
 🔘 US Army veteran
 </br>
-🔘 I enjoy hiking, paddleboarding, and drone photography. 
-</br>
 
 
